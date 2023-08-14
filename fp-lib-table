@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "QR_Codes")(type "KiCad")(uri "${KIPRJMOD}/QR_Codes.pretty")(options "")(descr ""))
   (lib (name "BobsStuff")(type "KiCad")(uri "/Users/d66317d/Documents/KiCad/6.0/footprints")(options "")(descr ""))
+  (lib (name "StockedComponents")(type "KiCad")(uri "/Users/d66317d/Code/Boards/Libraries/StockedComponents")(options "")(descr ""))
 )
