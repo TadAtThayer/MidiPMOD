@@ -844,7 +844,7 @@
     (property "Value" "DIN-5_180degree" (at 50.0634 77.343 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "StockedComponents:CUI_SDS-50J" (at 55.88 76.2 0)
+    (property "Footprint" "StockedComponents:DIN5_MIDI" (at 55.88 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf" (at 55.88 76.2 0)
